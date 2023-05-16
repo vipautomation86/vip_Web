@@ -13,7 +13,15 @@
    5. Create folder ./SRC/ (pages),(components),(types)
 
 4. Create Git Repository
+
    1. add Readme.MD
    2. create github account
    3. connect vs code to github
    4. publish repository
+
+5. List Product
+
+   1. create Product type
+   2. create product array
+   3. add product images
+   4. render products
